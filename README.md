@@ -61,13 +61,13 @@ cd Spotify_WebApp
 
 - **Open the application**
 Simply open the index.html file in your preferred web browser to view and interact with the application locally.
-
+---
 **Contact**
 For any queries, feel free to reach out:
 
 Email: harsh264patil@gmail.com
 GitHub: HarshHP264
 
-
+---
 Contributions are welcome! Whether it's reporting a bug, suggesting new features, or submitting pull requests, let's work together to enhance this project. Let's build something great! 🚀
 
