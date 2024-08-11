@@ -26,18 +26,7 @@ Welcome to the **Spotify Web Application**! This project is a Spotify-inspired m
 
 ---
 
-## 📁 Project Structure
-
-Spotify_WebApp/
-│
-├── index.html # The main HTML file for the application
-├── style.css # The CSS file for styling the application
-├── script.js # The JavaScript file for functionality
-├── assets/ # Directory for images and other assets
-│ ├── images/ # Image files used in the application
-│ └── icons/ # Icons used throughout the application
-├── music/ # Directory containing the music files
-└── README.md # Project documentation
+![image](https://github.com/user-attachments/assets/4ad8704a-3caa-4794-beb6-25bbec2b5278)
 
 
 ---
@@ -61,6 +50,14 @@ Spotify_WebApp/
 
 - **Open the application**
 Simply open the index.html file in your preferred web browser to view and interact with the application locally.
+---
+- **📸 Screenshots**
+- Include screenshots of your application here to showcase its design and functionality.
+- This is the Home Page : 
+![image](https://github.com/user-attachments/assets/eadf2484-7352-45be-9581-67d60d2f5f02)
+
+
+
 ---
 **Contact**
 - For any queries, feel free to reach out:
