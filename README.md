@@ -52,21 +52,21 @@ Spotify_WebApp/
 ---
 ## 🛠️ Setup Instructions
 - **Clone the repository**
-To get started, clone the repository to your local machine:
-git clone https://github.com/your-username/Spotify_WebApp.git
+- To get started, clone the repository to your local machine:
+- git clone https://github.com/your-username/Spotify_WebApp.git
 
 - **Navigate to the project directory**
-Move into the project directory where all files are located:
-cd Spotify_WebApp
+- Move into the project directory where all files are located:
+- cd Spotify_WebApp
 
 - **Open the application**
 Simply open the index.html file in your preferred web browser to view and interact with the application locally.
 ---
 **Contact**
-For any queries, feel free to reach out:
+- For any queries, feel free to reach out:
 
-Email: harsh264patil@gmail.com
-GitHub: HarshHP264
+- Email: harsh264patil@gmail.com
+- GitHub: HarshHP264
 
 ---
 Contributions are welcome! Whether it's reporting a bug, suggesting new features, or submitting pull requests, let's work together to enhance this project. Let's build something great! 🚀
